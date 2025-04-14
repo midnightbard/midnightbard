@@ -17,6 +17,8 @@ Threads: https://www.threads.net/@midnightbardtarot
 
 Bluesky: https://bsky.app/profile/midnightbardtarot.bsky.social
 
+Twitter: https://x.com/midnightbard_
+
 Hive: https://peakd.com/@moonlitenite
 
 Splinterlands: https://splinterlands.com/user/profile/moonlitenite
