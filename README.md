@@ -5,11 +5,17 @@ Full list on my social media accounts ( verified)
 
 **YouTube**: https://www.youtube.com/@MidnightBardTarot
 
+Merch Shop: https://midnightbard-shop.fourthwall.com/en-eur/
+
 Instagram Hagal: https://www.instagram.com/midnightbardtarot/
 
 Instagram Penny: https://www.instagram.com/themidnightbard.secretsociety/
 
 Threads: https://www.threads.net/@midnightbardtarot
+
+Pinterest: https://www.pinterest.com/midnightbardtarot/
+
+TikTok: https://www.tiktok.com/@midnightbardtarot
 
 ## GUMROAD
 
@@ -19,24 +25,18 @@ Bluesky: https://bsky.app/profile/midnightbardtarot.bsky.social
 
 Twitter: https://x.com/midnightbard_
 
-Hive: https://peakd.com/@moonlitenite
-
-Splinterlands: https://splinterlands.com/user/profile/moonlitenite
-
-Discord:  midnight_bard#0000
-
-
-## LESS USED 
-
 Mastodon: https://mastodon.social/@midnightbardtarot
 
 Nostr: https://nostrudel.ninja/#/u/npub1t8dc7fyprlzhtee8xcv5s8xpk4zu4dujg7jzdjkv7y3dygslje7quyrr9z
 
-Pinterest: https://www.pinterest.com/midnightbardtarot/
+Hive: https://peakd.com/@moonlitenite
 
-TikTok: https://www.tiktok.com/@midnightbardtarot
+Splinterlands: https://splinterlands.com/user/profile/moonlitenite
 
 Twitch: https://www.twitch.tv/midnightbardtarot
+
+Discord:  midnight_bard#0000
+
 
 
 # My stat
