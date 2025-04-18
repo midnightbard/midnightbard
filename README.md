@@ -1,3 +1,11 @@
+# My stat
+<img src="https://github-readme-stats.vercel.app/api?username=midnightbard&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&custom_title=Github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbard&&show_icons=true&locale=en&theme=gotham" alt="ovi" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=midnightbard&column=4&title=-Stars,-Followers,-PullRequest,-Reviews&theme=darkhub" />
+
+---
 
 Full list on my social media accounts ( verified) 
 
@@ -33,10 +41,3 @@ Make sure to communicate ONLY with the listed profiles. I will never ( ever!) co
   - TikTok: https://www.tiktok.com/@midnightbardtarot 
 
 ---
-
-# My stat
-<img src="https://github-readme-stats.vercel.app/api?username=midnightbard&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&custom_title=Github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbard&&show_icons=true&locale=en&theme=gotham" alt="ovi" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=midnightbard&column=4&title=-Stars,-Followers,-PullRequest,-Reviews&theme=darkhub" />
