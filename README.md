@@ -13,7 +13,7 @@ Full list on my social media accounts ( verified)
 
 - **Gumroad**: https://midnightbard.gumroad.com/
 - **Bluesky**: https://bsky.app/profile/midnightbardtarot.bsky.social
-- **Twitter**: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
+- **X.com**: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
 - **Discord**:  midnight_bard#0000
 - LESS USED: 
   - Mastodon: https://mastodon.social/@midnightbardtarot
