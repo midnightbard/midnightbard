@@ -16,7 +16,7 @@ Full list on my social media accounts ( verified)
 - **X.com**: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
 - **Discord**:  midnight_bard#0000
 - LESS USED: 
-  - Mastodon: https://mastodon.social/@midnightbardtarot
+  - Mastodon: <a rel="me" href="https://mastodon.social/@midnightbardtarot">https://mastodon.social/@midnightbardtarot</a>
   - Nostr: https://nostrudel.ninja/#/u/npub1t8dc7fyprlzhtee8xcv5s8xpk4zu4dujg7jzdjkv7y3dygslje7quyrr9z
   - Hive: https://peakd.com/@moonlitenite
   - Splinterlands: https://splinterlands.com/user/profile/moonlitenite
