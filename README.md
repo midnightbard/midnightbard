@@ -22,6 +22,10 @@ Full list on my social media accounts ( verified)
   - Splinterlands: https://splinterlands.com/user/profile/moonlitenite
   - Twitch: https://www.twitch.tv/midnightbardtarot
 
+### DONATIONS TIPS ( CRYPTO) 
+https://www.mydoge.com/midnightbard
+https://nowpayments.io/donation/midnightbard
+
 ---
  
 ⚠️ IMPORTANT 
