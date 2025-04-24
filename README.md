@@ -1,4 +1,7 @@
 # My stat
+
+[![Midnight Bard profile views](https://u8views.com/api/v1/github/profiles/205895856/views/day-week-month-total-count.svg)](https://u8views.com/github/midnightbard)
+
 <img src="https://github-readme-stats.vercel.app/api?username=midnightbard&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&custom_title=Github" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbard&&show_icons=true&locale=en&theme=gotham" alt="ovi" />
