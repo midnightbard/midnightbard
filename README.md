@@ -48,3 +48,8 @@ Make sure to communicate ONLY with the listed profiles. I will never ( ever!) co
   - TikTok: https://www.tiktok.com/@midnightbardtarot 
 
 ---
+
+## NEW
+
+- Rumble : [https://rumble.com/](https://rumble.com/user/midnightbard)
+- Dailymotion: [https://www.dailymotion.com/us](https://www.dailymotion.com/midnightbard)
