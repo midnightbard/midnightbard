@@ -12,23 +12,11 @@
 
 Full list on my social media accounts ( verified) 
 
-## GUMROAD
+## MAIN 
 
-- **Gumroad**: https://midnightbard.gumroad.com/
+- **YouTube**: https://www.youtube.com/@MidnightBardTarot
+- **Website**: https://midnightbard.com
 - **Bluesky**: https://bsky.app/profile/midnightbardtarot.bsky.social
-- **X.com**: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
-- **Discord**:  midnight_bard#0000
-- LESS USED: 
-  - Mastodon: <a rel="me" href="https://mastodon.social/@midnightbardtarot">https://mastodon.social/@midnightbardtarot</a>
-  - Nostr: https://nostrudel.ninja/#/u/npub1t8dc7fyprlzhtee8xcv5s8xpk4zu4dujg7jzdjkv7y3dygslje7quyrr9z
-  - Hive: https://peakd.com/@moonlitenite
-  - Splinterlands: https://splinterlands.com/user/profile/moonlitenite
-  - Twitch: https://www.twitch.tv/midnightbardtarot
-
-### DONATIONS TIPS ( CRYPTO) 
-- https://www.mydoge.com/midnightbard
-- https://nowpayments.io/donation/midnightbard
-
 ---
  
 ⚠️ IMPORTANT 
@@ -36,20 +24,33 @@ Make sure to communicate ONLY with the listed profiles. I will never ( ever!) co
  
 ---
 
- ## YOUTUBE
+ ## HAS A PROFILE
 
-- **YouTube**: https://www.youtube.com/@MidnightBardTarot
-- **Merch Shop**: https://midnightbard-shop.fourthwall.com/en-eur/
+
 - **Instagram**: https://www.instagram.com/midnightbardtarot/
 - **Instagram (*Penny*)**: https://www.instagram.com/themidnightbard.secretsociety/
-- LESS USED: 
-  - Threads: https://www.threads.net/@midnightbardtarot 
-  - Pinterest: https://www.pinterest.com/midnightbardtarot/ 
-  - TikTok: https://www.tiktok.com/@midnightbardtarot 
-
----
-
-## NEW
-
+- Bluesky (Rune): https://bsky.app/profile/runeashwood.bsky.social
+- Threads: https://www.threads.net/@midnightbardtarot 
+- Pinterest: https://www.pinterest.com/midnightbardtarot/ 
+- TikTok: https://www.tiktok.com/@midnightbardtarot
+- **Gumroad**: https://midnightbard.gumroad.com/
+- KoFi:
+- Patreaon:
+- BuyMeACoffee:
+- **X.com**: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
+- **Discord**:  midnight_bard#0000
+- Mastodon: <a rel="me" href="https://mastodon.social/@midnightbardtarot">https://mastodon.social/@midnightbardtarot</a>
+- Nostr: https://nostrudel.ninja/#/u/npub1t8dc7fyprlzhtee8xcv5s8xpk4zu4dujg7jzdjkv7y3dygslje7quyrr9z
+- Hive: https://peakd.com/@moonlitenite
+- Splinterlands: https://splinterlands.com/user/profile/moonlitenite
+- Twitch: https://www.twitch.tv/midnightbardtarot
 - Rumble : [https://rumble.com/](https://rumble.com/user/midnightbard)
 - Dailymotion: [https://www.dailymotion.com/us](https://www.dailymotion.com/midnightbard)
+  
+### ( CRYPTO) 
+- https://www.mydoge.com/midnightbard
+- https://nowpayments.io/donation/midnightbard
+
+
+
+
