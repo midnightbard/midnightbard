@@ -16,7 +16,7 @@ Full list on my social media accounts ( verified)
 
 - **YouTube**: https://www.youtube.com/@MidnightBardTarot
 - **Website**: https://midnightbard.com
-- **Bluesky**: https://bsky.app/profile/midnightbardtarot.bsky.social
+- **Email**: midnightbard@proton.me
 ---
  
 ⚠️ IMPORTANT 
@@ -24,32 +24,48 @@ Make sure to communicate ONLY with the listed profiles. I will never ( ever!) co
  
 ---
 
- ## HAS A PROFILE
+## USES
 
+- **Codeberg**: https://codeberg.org/midnightbard
 
 - **Instagram**: https://www.instagram.com/midnightbardtarot/
-- **Instagram (*Penny*)**: https://www.instagram.com/themidnightbard.secretsociety/
-- Bluesky (Rune): https://bsky.app/profile/runeashwood.bsky.social
-- Threads: https://www.threads.net/@midnightbardtarot 
-- Pinterest: https://www.pinterest.com/midnightbardtarot/ 
-- TikTok: https://www.tiktok.com/@midnightbardtarot
-- **Gumroad**: https://midnightbard.gumroad.com/
-- KoFi:
-- Patreaon:
-- BuyMeACoffee:
-- **X.com**: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
+- **Bluesky**: https://bsky.app/profile/midnightbardtarot.bsky.social
+- **Pinterest**: https://www.pinterest.com/midnightbardtarot/ 
+- **TikTok**: https://www.tiktok.com/@midnightbardtarot
 - **Discord**:  midnight_bard#0000
+- **Hive**: https://peakd.com/@moonlitenite
+- **Splinterlands**: https://splinterlands.com/user/profile/moonlitenite
+- **Rumble** : [https://rumble.com/](https://rumble.com/user/midnightbard)
+
+## HAS A PROFILE
+
+- Discord:  midnight_bard#0000
+- Threads: https://www.threads.net/@midnightbardtarot 
+- Reddit: https://www.reddit.com/user/midnightbard_/
+- X.com: [https://x.com/midnightbard_](https://x.com/midnightbard_) 
 - Mastodon: <a rel="me" href="https://mastodon.social/@midnightbardtarot">https://mastodon.social/@midnightbardtarot</a>
 - Nostr: https://nostrudel.ninja/#/u/npub1t8dc7fyprlzhtee8xcv5s8xpk4zu4dujg7jzdjkv7y3dygslje7quyrr9z
-- Hive: https://peakd.com/@moonlitenite
-- Splinterlands: https://splinterlands.com/user/profile/moonlitenite
 - Twitch: https://www.twitch.tv/midnightbardtarot
-- Rumble : [https://rumble.com/](https://rumble.com/user/midnightbard)
-- Dailymotion: [https://www.dailymotion.com/us](https://www.dailymotion.com/midnightbard)
+
+
   
 ### ( CRYPTO) 
 - https://www.mydoge.com/midnightbard
 - https://nowpayments.io/donation/midnightbard
+
+## COLLABORATION
+
+- **Instagram (*Penny*)**: https://www.instagram.com/themidnightbard.secretsociety/
+- **Bluesky (Rune)**: https://bsky.app/profile/runeashwood.bsky.social
+
+## NO LONGER USES
+
+- Gumroad: https://midnightbard.gumroad.com/
+- KoFi:
+- Patreon:
+- BuyMeACoffee:
+- Dailymotion: [https://www.dailymotion.com/us](https://www.dailymotion.com/midnightbard)
+
 
 
 
