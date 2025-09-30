@@ -16,7 +16,6 @@
 - **Website**: https://midnightbard.com
 - **YouTube**: https://www.youtube.com/@MidnightBardTarot
 - **KoFi**: https://ko-fi.com/midnightbard
-- **Threads**: https://www.threads.net/@midnightbardtarot 
 - **Bluesky**: https://bsky.app/profile/midnightbardtarot.bsky.social
 - **TikTok**: https://www.tiktok.com/@midnightbardtarot
 ---
